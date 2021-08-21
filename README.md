@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!🤚 I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
+-💬 Ask me about:1179730251@qq.com
+
+
+
 
 <!--
 **ddy-ddy/ddy-ddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
