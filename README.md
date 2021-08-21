@@ -1,7 +1,13 @@
-### Hi!🤚 
-- I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
--💬 Ask me about:1179730251@qq.com
+### Hello!🤚 
 
+I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
+
+### Find me
+
+- 💬 Ask me about 1179730251@qq.com
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ddy-ddy&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddy-ddy&theme=dark&layout=compact)
 
 
 
