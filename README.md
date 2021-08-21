@@ -1,4 +1,5 @@
-### Hi!🤚 I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
+### Hi!🤚 
+- I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
 -💬 Ask me about:1179730251@qq.com
 
 
