@@ -1,6 +1,6 @@
 ### Hello!🤚 
 
-I am Yu Duan,so nice to meet you.I am very interesting in Deep learning and NLP.
+I am Yu Duan,so nice to meet you.I am very interested in Knowledge graph and deep learning.
 
 ### Find me
 
