@@ -1,10 +1,9 @@
 ### Hello!🤚 
 
-I am Yu Duan,so nice to meet you.I am very interested in Knowledge graph and deep learning.
+I am Yu Duan,so nice to meet you.
 
 ### Find me
 
-- 💬 Ask me about 1179730251@qq.com
 - 📫 Look my website https://www.ddy-ddy.com/
 
 <!--
