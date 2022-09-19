@@ -10,8 +10,8 @@
 
 ### *About Me*
 
-I am Yu Duan,so nice to meet you.
-
+Hello! I am ddy-ddy. Welcome to my github. I am preparing for the postgraduate entrance examination. I like programming and sharing knowledge.
+I am a cool boy. Keep learning.✌🏻
 
 
 ### *Find Me*
