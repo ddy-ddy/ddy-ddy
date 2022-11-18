@@ -16,9 +16,9 @@ I am a cool boy. Keep learning.✌🏻
 
 ### *Find Me*
 
-- <a href="mailto: 1179730251@qq.com">Email Me</a> 
+- <a href="mailto: 1179730251@qq.com">我的邮箱</a> 
 
-* [Personal website](https://www.ddy-ddy.com)
+* [我的个人网站](https://www.ddy-ddy.com)
 
 * [我的b站频道](https://space.bilibili.com/434180761/)
     
