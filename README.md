@@ -20,8 +20,6 @@ I am a cool boy. Keep learning.✌🏻
 
 * [我的个人网站](https://www.ddy-ddy.com)
 
-* [我的b站频道](https://space.bilibili.com/434180761/)
-    
 
 ### *GitHub stats*
 
