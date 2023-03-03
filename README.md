@@ -10,7 +10,7 @@
 
 ### *About Me*
 
-Hello! I am ddy-ddy. Welcome to my github. I am preparing for the postgraduate entrance examination. I like programming and sharing knowledge.
+Hello! I am ddy-ddy. Welcome to my github. I like programming and sharing knowledge.
 I am a cool boy. Keep learning.✌🏻
 
 
