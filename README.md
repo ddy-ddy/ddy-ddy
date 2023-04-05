@@ -21,8 +21,6 @@ I am a cool boy. Keep learning.✌🏻
 * [我的个人网站](https://www.ddy-ddy.com)
 
 
-### *GitHub stats*
+### 今年汇总 ✨
 
-<a href="https://github.com/ddy-ddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddy-ddy&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff00" /></a>  
-<a href="https://github.com/ddy-ddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddy-ddy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&bg_color=ffffff00" alt="ddy-ddy's github stats" /></a>  
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ddy-ddy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddy-ddy&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
