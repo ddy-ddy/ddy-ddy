@@ -16,7 +16,7 @@ I am a cool boy. Keep learning.✌🏻
 
 ### Find Me 🔍
 
-- <a href="mailto: 1179730251@qq.com">我的邮箱</a> 
+- <a href="mailto: duanyunlp@gmail.com">我的邮箱</a> 
 
 * [我的个人网站](https://www.ddy-ddy.com)
 
