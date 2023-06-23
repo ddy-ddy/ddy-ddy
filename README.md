@@ -18,8 +18,6 @@ I am a cool boy. Keep learning.✌🏻
 
 - <a href="mailto: duanyunlp@gmail.com">我的邮箱</a> 
 
-* [我的个人网站](https://www.ddy-ddy.com)
-
 
 ### This Year ✨
 
