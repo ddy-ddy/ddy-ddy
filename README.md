@@ -1,24 +1,13 @@
-
-
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/ddy-ddy/count.svg" />  
-</p>
+Hello！我是一名正在忙碌工作的👨🏻‍💻数据产品经理，梦想着有一天能实现财富自由，然后开一家自己的☕️咖啡店
 
-### About Me 👨🏻‍💻
+热爱骑行、摄影和手冲咖啡。同时，我也是一名热衷于分享的up主。
 
-Hello! I am ddy-ddy. Welcome to my github. I like programming and sharing knowledge.
-I am a cool boy. Keep learning.✌🏻
+🚴🏻骑着美利达King，探索世界的每一个角落
 
+📷用富士X-S10捕捉生活的美好瞬间
 
-### Find Me 🔍
-
-- <a href="mailto: duanyunlp@gmail.com">我的邮箱</a> 
-
-
-### This Year ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ddy-ddy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddy-ddy&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+☕️享受手冲咖啡的过程
